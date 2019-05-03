@@ -29,7 +29,7 @@ Aim high, but at least, avoid any losses: weight gain and nutritional deficienci
 |Before Maghreb   |Walking| | Moderate cardio:<br>Max heart rate = (220 - Age) x 0.7<br>Min heart rate = (220 - Age) x 0.6|
 |Maghreb (Iftar)  |<ul><li>**Small** meal</li><li>**Small** amounts of water</li><li>Lean protein</li><li>High glycemic carbs</li><li>Pink Himalayan salt</li></ul>|<ul><li>Fats</li><li>Carbs</li><li>Salt</li><li>Vegetables</li><li>Beans</li><li>Grains</li><li>Dairy</li></ul>|Choose:<ul><li>Watermelon</li><li>Vegetable soup (no cream)</li><li>Mango (no added sugar)</li><li>Dates</li><li>Bread</li><li>Rice</li></ul>|
 |Maghreb + 1-2 hrs|<ul><li>Vegetables (boiled, steamed, or grilled, without fats)</li><li>Lean protein</li><li>Low glycemic carbs</li><li>Fruits</li></ul>|<ul><li>High glycemic carbs</li><li>Fats</li>|Choose:<ul><li>Fish</li></ul>|
-|Sohoor           |<ul><li>**Little** fats</li><li>Fruits</li></ul>| |Choose: <ul><li>Egg + butter + pink </li><li>Greek yoghurt + Raw muesli + white honey</li></ul>| |
+|Sohoor           |<ul><li>**Little** fats</li><li>Fruits</li></ul>| |Choose: <ul><li>Egg + butter + pink </li><li>Greek yoghurt + Raw muesli + white honey</li></ul>|
 
 ## Key Takeaways
 
