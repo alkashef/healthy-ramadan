@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Ramadan](https://en.wikipedia.org/wiki/Ramadan) is the ninth month of the Islamic (Hijri) calendar and is observed by Muslims worldwide as a month of fasting. The month lasts 29-30 days during which Muslims fast from sunrise to sunset. It is dry fast: no eating or drinking.  
+[Ramadan](https://en.wikipedia.org/wiki/Ramadan) is the ninth month of the Islamic (Hijri) calendar and is observed by Muslims worldwide as a month of fasting. The month lasts 29-30 days during which Muslims fast from sunrise to sunset. It is a dry fast: no eating or drinking.  
 
 According to the Islamic faith, cleansing the body and the soul are among the purposes of fasting. This guide is concerned with the material (body) aspect of cleansing.
 
