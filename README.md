@@ -27,7 +27,7 @@ Aim high, but at least, avoid any losses: weight gain and nutritional deficienci
 |Timing           |Yes  | No | Specifics |
 |-----------------|-----|----|-----------|
 |Before Maghreb   |Walking| | Moderate cardio:<br>Max heart rate = (220 - Age) x 0.7<br>Min heart rate = (220 - Age) x 0.6|
-|Maghreb (Iftar)  |<ul><li>**Small** meal</li><li>**Small** amounts of water</li><li>Lean protein</li><li>High glycemic carbs</li><li>Pink Himalayan salt</li></ul>|<ul><li>Fats</li><li>Carbs</li><li>Salt</li><li>Vegetables</li><li>Beans</li><li>Grains</li><li>Dairy</li></ul>|Choose:<ul><li>Watermelon</li><li>Vegetable soup (no cream)</li><li>Mango (no added sugar)</li><li>Dates</li><li>Bread</li><li>Rice</li></ul>|
+|Maghreb (Iftar)  |<ul><li>**Small** meal</li><li>**Small** amounts of water</li><li>Lean protein</li><li>High glycemic carbs [Reference 6, 7] </li><li>Pink Himalayan salt</li></ul>|<ul><li>Fats</li><li>Carbs</li><li>Salt</li><li>Vegetables</li><li>Beans</li><li>Grains</li><li>Dairy</li></ul>|Choose:<ul><li>Watermelon</li><li>Vegetable soup (no cream)</li><li>Mango (no added sugar)</li><li>Dates</li><li>Bread</li><li>Rice</li></ul>|
 |Maghreb + 1-2 hrs|<ul><li>Vegetables (boiled, steamed, or grilled, without fats)</li><li>Lean protein</li><li>Low glycemic carbs</li><li>Fruits</li></ul>|<ul><li>High glycemic carbs</li><li>Fats</li>|Choose:<ul><li>Fish</li></ul>|
 |Sohoor           |<ul><li>**Little** fats</li><li>Fruits</li></ul>| |Choose: <ul><li>Egg + butter + pink </li><li>Greek yoghurt + Raw muesli + white honey</li></ul>|
 
@@ -47,3 +47,5 @@ If you forgot everything in this guide, just remember these 4 general principles
 3. [Top 3 Mistakes People Make when Breaking a Fast](https://www.youtube.com/watch?v=0vZpe-yrZLY)
 4. [3 Things To Maximize Fat Loss During Ramadan](https://www.youtube.com/watch?v=u4Rr2P3_k80)
 5. [How To Lose Weight During Ramadan](https://www.youtube.com/watch?v=XqscaqyhBGU)
+6. [The lowdown on glycemic index and glycemic load](https://www.health.harvard.edu/diseases-and-conditions/the-lowdown-on-glycemic-index-and-glycemic-load)
+7. [Glycemic index for 60+ foods](https://www.health.harvard.edu/diseases-and-conditions/glycemic-index-and-glycemic-load-for-100-foods)
